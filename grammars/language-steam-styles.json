@@ -1,0 +1,6 @@
+{
+	"name": "Steam Styles",
+	"scopeName": "source.styles",
+	"fileTypes" : ["styles"],
+	"maxTokensPerLine": 100,
+}
